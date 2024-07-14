@@ -1,0 +1,83 @@
+[
+    {
+        "title": "The antonym of the noun 'prejudice' is ........",
+        "answer_1": "immobility",
+        "answer_2": "impartiality",
+        "answer_3": "innaccuracy",
+        "answer_4": "incapablity",
+        "right_answer":"impartiality"
+    },
+    {
+        "title": "We'd like to …………… a table at the restaurant , please",
+        "answer_1": "book",
+        "answer_2": "design",
+        "answer_3": "fix",
+        "answer_4": "make",
+        "right_answer":"book"
+    },
+    {
+        "title": "There are a lot of …………… on the ground in autumn",
+        "answer_1": "trunks",
+        "answer_2": "leaves",
+        "answer_3": "roots",
+        "answer_4": "stems",
+        "right_answer":"leaves"
+    },
+    {
+        "title": "My friend Lamia ……………. really well in the test yesterday.",
+        "answer_1": "made",
+        "answer_2": "did",
+        "answer_3": "run",
+        "answer_4": "got",
+        "right_answer":"did"
+    },
+    {
+        "title": "The car ………………… now",
+        "answer_1": "mends",
+        "answer_2": "is mending",
+        "answer_3": "is being mended",
+        "answer_4": "mend",
+        "right_answer":"is being mended"
+    },
+    {
+        "title": "The ………….. of the match surprised everyone .",
+        "answer_1": "reason",
+        "answer_2": "opinion",
+        "answer_3": "result",
+        "answer_4": "house",
+        "right_answer":"result"
+    },
+    {
+        "title": "While he ………… his hair cut , the light went out .",
+        "answer_1": "had",
+        "answer_2": "has",
+        "answer_3": "was having ",
+        "answer_4": "used to have",
+        "right_answer":"was having "
+    },
+    {
+        "title": "Reem is very ……….. , she will be a very good poet",
+        "answer_1": "strange",
+        "answer_2": "creative",
+        "answer_3": "imaginary",
+        "answer_4": "ordinary",
+        "right_answer":"creative"
+    },
+    {
+        "title": "It's hard to study and have a ………………… job . ",
+        "answer_1": " time out",
+        "answer_2": "time",
+        "answer_3": "full-time",
+        "answer_4": "timed",
+        "right_answer":"full-time"
+    },
+    {
+        "title": "My brother encouraged me …………… my time .",
+        "answer_1": "waste",
+        "answer_2": "wasting",
+        "answer_3": "wastes",
+        "answer_4": "not to waste",
+        "right_answer":"not to waste"
+    }
+    
+]
