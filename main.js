@@ -71,12 +71,13 @@ function createBullets(num){
     for (let i=0 ; i < num ; i++) {
         //create span
         let theBullet = document.createElement("span");
+        bulletsSpanContainer.appendChild(theBullet);
         
     }
 }
 
 function addQuestionData (obj , count) {
-    if(currentIndex < 10) {  ////////////////////////////////////////////////////////error here 
+    if(currentIndex < 10) {  
         //creata h2 question
         let questionsTitle = document.createElement("h2");
         
@@ -138,7 +139,7 @@ function CheckAnswer(rAnswer , count) {
 function handleBullets() {
     let bulletsSpans = document.querySelectorAll(".bullets .spans-container span");
     let arrayOfSpans = Array.from(bulletsSpans);
-    arrayOfSpans.forEach((span,index) => {
+    arrayOfSpans.forEach((span , index) => {
         if(currentIndex === index){
             span.className = 'on';
         }
@@ -172,7 +173,6 @@ function countdown(duration , count) {
         countdownInterval = setInterval(function(){
             minutes = parseInt(duration / 60);
             seconds = parseInt(duration % 60);
-            
             
             minutes = minutes < 10 ?`0${minutes}` : minutes;
             seconds = seconds < 10 ?`0${seconds}` : seconds;

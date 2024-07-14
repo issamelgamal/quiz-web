@@ -97,6 +97,7 @@ body {
 .quiz-app .bullets .spans-container {
     flex: 1;
     display: flex;
+    
 }
 .quiz-app .bullets .spans-container span {
     width: 20px;
@@ -104,11 +105,16 @@ body {
     background-color: #eee;
     margin-right: 5px;
     border-radius: 50%;
-    
+}
+.quiz-app .bullets .spans-container span:nth-child(1) {
+    width: 20px;
+    height: 20px;
+    background-color: #0075ff;
+    margin-right: 5px;
+    border-radius: 50%;
 }
 .quiz-app .bullets .spans-container span.on {
     background-color: #0075ff;
-    
 }
 .quiz-app .results{
     display: flex;
